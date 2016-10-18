@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Hearthstone Cards for WordPress\n"
+"POT-Creation-Date: 2016-09-22 11:07+0200\n"
+"PO-Revision-Date: 2016-04-29 12:51+0200\n"
+"Last-Translator: flowdee <coder@flowdee.de>\n"
+"Language-Team: flowdee <coder@flowdee.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hearthstone-cards.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-hearthstone-cards-admin.php:156
+msgid "Hearthstone Cards for WordPress"
+msgstr ""
+
+#: admin/class-hearthstone-cards-admin.php:157
+msgid "Hearthstone Cards"
+msgstr ""
+
+#: admin/class-hearthstone-cards-admin.php:183
+msgid "Settings"
+msgstr ""
+
+#: admin/views/admin.php:73
+msgid "Configuration"
+msgstr ""
+
+#: admin/views/admin.php:75
+msgid "Here you can find a few options to customize the output."
+msgstr ""
+
+#: admin/views/admin.php:80
+msgid "Show cards"
+msgstr ""
+
+#: admin/views/admin.php:85 admin/views/admin.php:112 admin/views/admin.php:129
+msgid "Enabled"
+msgstr ""
+
+#: admin/views/admin.php:91
+msgid "Language of cards"
+msgstr ""
+
+#: admin/views/admin.php:95
+msgid "English"
+msgstr ""
+
+#: admin/views/admin.php:96
+msgid "Chinese"
+msgstr ""
+
+#: admin/views/admin.php:97
+msgid "French"
+msgstr ""
+
+#: admin/views/admin.php:98
+msgid "German"
+msgstr ""
+
+#: admin/views/admin.php:99
+msgid "Russian"
+msgstr ""
+
+#: admin/views/admin.php:100
+msgid "Spanish"
+msgstr ""
+
+#: admin/views/admin.php:101
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/views/admin.php:107
+msgid "Colored card names"
+msgstr ""
+
+#: admin/views/admin.php:114 admin/views/admin.php:131
+msgid "e.g."
+msgstr ""
+
+#: admin/views/admin.php:114
+msgid "Holy Nova"
+msgstr ""
+
+#: admin/views/admin.php:115 admin/views/admin.php:131
+#: admin/views/admin.php:132
+msgid "Shadow Madness"
+msgstr ""
+
+#: admin/views/admin.php:116
+msgid "Loot Hoarder"
+msgstr ""
+
+#: admin/views/admin.php:117
+msgid "Cabal Shadow Priest"
+msgstr ""
+
+#: admin/views/admin.php:118
+msgid "Ragnaros the Firelord"
+msgstr ""
+
+#: admin/views/admin.php:124
+msgid "Bold card names"
+msgstr ""
+
+#: admin/views/admin.php:131
+msgid "or"
+msgstr ""
+
+#: admin/views/admin.php:138
+msgid "Last Update"
+msgstr ""
+
+#: admin/views/admin.php:145
+msgid "Cards database will be updated automatically"
+msgstr ""
+
+#: admin/views/admin.php:147
+msgid "Local cards database will be taken"
+msgstr ""
+
+#: admin/views/admin.php:151
+msgid ""
+"In order to receive updated cards automatically, <strong>PHP cURL</strong> "
+"extension must be enabled on your web hosting."
+msgstr ""
+
+#: admin/views/admin.php:157
+msgid "Check in order to force updating cards"
+msgstr ""
+
+#: admin/views/admin.php:166
+msgid "Update settings"
+msgstr ""
+
+#: admin/views/admin.php:187
+msgid ""
+"Hearthstone Cards for WordPress adds an overlay to written card names within "
+"brackets e.g. [Druid of the Claw] and displays the associated image while "
+"hovering the card name."
+msgstr ""
+
+#: admin/views/admin.php:188
+msgid ""
+"All of my plugins & themes are handmade with passion. I really looking "
+"forward to your feedback and suggestions."
+msgstr ""
+
+#: admin/views/admin.php:196
+msgid "Support & Resources"
+msgstr ""
+
+#: admin/views/admin.php:199
+msgid "Visit plugin page"
+msgstr ""
+
+#: admin/views/admin.php:200
+msgid "View online demo"
+msgstr ""
+
+#: admin/views/admin.php:201
+msgid "Issue tracker"
+msgstr ""
+
+#: admin/views/admin.php:202
+msgid "Follow me on Twitter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/hearthstone-cards/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hearthstone Cards for WordPress adds an overlay to written card names and "
+"displays the associated image while hovering them."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "flowdee"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://coder.flowdee.de"
+msgstr ""
